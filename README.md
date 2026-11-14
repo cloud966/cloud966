@@ -1,26 +1,8 @@
-# 🌷¡Hola! Soy Zoe ;)
+# 🌷¡Hola! Soy Zoe
 
 🎓 Estudiante de primer año de **Licenciatura en Sistemas**  
 💻 Enfocada en **Desarrollo Web** y **Ciencia de Datos**  
 📚 Actualmente aprendiendo **Python**, **JavaScript**, **Git**, **GitHub** y **VS Code**
-
----
-
-## 🚀 Sobre mí
-Formo parte del programa **Oracle Next Education (ONE)** de **Alura Latam**, donde curso la formación en **Data Science**.  
-Me gusta crear proyectos prácticos y compartir mi progreso en GitHub / LinkedIn.  
-
-📝 En este perfil encontrarás mis **proyectos, ejercicios y avances**, documentados mientras construyo mi ruta de aprendizaje.
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-| Lenguajes | Herramientas | Intereses |
-|-----------|--------------|-----------|
-| Python 🐍 | Git & GitHub 🧩 | Ciencia de Datos 📊 |
-| JavaScript ⚡ | VS Code 💻 | Desarrollo Web 🌐 |
-| HTML & CSS | Terminal 🖥️ | Aprendizaje Continuo 📚 |
 
 ---
 
