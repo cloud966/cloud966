@@ -2,7 +2,7 @@
 
 Tengo 20 años y soy estudiante de primer año de **Licenciatura en Sistemas**.
 
-Tengo interés en formarme como **QA Engineer**, y a la par adquirir conocimientos complementarios sobre **Desarrollo Web**.
+Tengo interés en formarme como **QA Engineer**, y  a la par adquirir conocimientos complementarios sobre **Desarrollo Web**.
 
 Actualmente, estoy aprendiendo lógica de programación y formándome en **Testing Manual de Software** a través de un curso de la Fundación PROEM.
 
